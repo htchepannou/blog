@@ -1,4 +1,4 @@
-Describe your projects in one line
+Describe your project here!
 
 ![](https://img.shields.io/badge/jdk-1.8-brightgreen.svg)
 ![](https://img.shields.io/badge/language-kotlin-blue.svg)
