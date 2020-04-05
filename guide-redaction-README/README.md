@@ -1,8 +1,4 @@
-Describe your project here!
-
-
-# The Course
-French: [TODO]()
+Learn how to write engaging README for your Github projects
 
 # Relevant Articles
 TODO
